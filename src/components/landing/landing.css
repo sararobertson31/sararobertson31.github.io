@@ -1,0 +1,23 @@
+#headshot {
+    max-width: 25%;
+}
+
+#landing-content {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    align-items: center;
+    margin-top: 1%;
+}
+
+#bio {
+    white-space: pre-line;
+    min-width: 300px;
+    max-width: 30%;
+}
+
+@media all and (max-device-width: 678px) {
+    #headshot {
+        max-width: 100%;
+    }
+}

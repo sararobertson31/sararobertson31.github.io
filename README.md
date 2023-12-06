@@ -1,27 +1,29 @@
-# React + TypeScript + Vite
+# Sara Robertson's Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Built by [jhanreg11](https://github.com/jhanreg11)
 
-Currently, two official plugins are available:
+# Maintenance Instructions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+General advice: be very mindful of changing the structure of any content files. only edit content and don't change the structure.
 
-## Expanding the ESLint configuration
+## Landing Page Content
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+landing-page.js structure
 
-- Configure the top-level `parserOptions` property like this:
+### Bio
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+1. Go to [landing-page.js](/src/assets/landing-page.js)
+2. Edit the stuff inside the triple quotes next to the key `bio`
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+````
+const content = {
+   'bio': ```<BIO CONTENT>```
+
+}
+````
+
+3. Save & Commit
+
+### Headshot
+
+TODO: Ideal image dimensions

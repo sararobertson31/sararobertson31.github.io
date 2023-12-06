@@ -1,15 +1,10 @@
-#header-container {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  text-align: center;
-}
-
-#nav {
+#root {
+  background: rgb(17,90,143);
+background: linear-gradient(0deg, rgba(17,90,143,1) 0%, rgba(154,212,254,1) 100%);
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
-  gap: 16px;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
 }
-

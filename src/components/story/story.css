@@ -1,0 +1,28 @@
+.story-card {
+    max-height: 100%;
+    width: 80%;
+    background-color: white;
+    color: black;
+    margin: 1%;
+    padding-top: 1%;
+    align-self: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.story-title {
+    font-size: 2em;
+}
+
+.story-subtitle {
+    font-style: oblique;
+}
+
+.story-content {
+    text-align: left;
+    tab-size: 4ch;
+    width: fit-content;
+    margin: 0 10% 5%;
+}
