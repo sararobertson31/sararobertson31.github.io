@@ -1,4 +1,4 @@
-# Sara Robertson's Portfolio Website
+# Sara Robertson's Portfolio Website 
 
 Built by [jhanreg11](https://github.com/jhanreg11)
 
@@ -16,7 +16,7 @@ landing-page.js structure
 2. Edit the stuff inside the triple quotes next to the key `bio`
 
 ````
-const content = {
+const stories = {
    'bio': ```<BIO CONTENT>```
 
 }
