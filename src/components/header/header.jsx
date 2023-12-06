@@ -2,12 +2,7 @@ import { Link } from "react-router-dom";
 import VaraText from "../VaraText";
 import "./header.css";
 
-interface HeaderProps {
-  navItems: Array<{ path: string; name: string }>;
-  title: string;
-}
-
-const Header = (props: HeaderProps) => {
+const Header = (props) => {
   return (
     <div id="header-container">
       <VaraText {...props} />

@@ -9,7 +9,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build && cp CNAME build/CNAME",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -b main -d build"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -28,9 +28,9 @@
     "eslint": "^8.45.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
+    "gh-pages": "^2.2.0",
     "typescript": "^5.0.2",
-    "vite": "^4.4.5",
-    "gh-pages": "^2.2.0"
+    "vite": "^4.4.5"
   },
   "browserslist": {
     "production": [

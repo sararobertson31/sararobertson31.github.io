@@ -6,7 +6,7 @@ import poetry from "./assets/poetry";
 import GridPage from "./components/grid/GridPage";
 import Header from "./components/header/header";
 import LandingPage from "./components/landing/LandingPage";
-import Story from "./components/story/story";
+import Story from "./components/story/Story";
 
 const processStories = (stories) => {
   let interStories = stories;
@@ -31,11 +31,7 @@ const processStories = (stories) => {
   return interStories;
 };
 
-const routes = new Array<{
-  element: JSX.Element;
-  path: string;
-  name: string;
-}>();
+const routes = [];
 routes.push(
   ...[
     {
