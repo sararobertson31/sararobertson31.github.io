@@ -191,6 +191,7 @@ I wake up and I look at the ceiling. I tell myself that I’ll get up when I cou
 
 Sometime soon I’d like to climb a tree again. Even now I can feel its cool, solid skin under my hands, my long hair getting tangled in sappy pine needles, I can hear the sharp hiss I’ll pull in through my teeth when my foot slips and my knee scrapes against the rough bark. I have almost forgotten what it’s like to sit on the slimmest branch that can hold my weight, my two legs dangling over either side and my arms wrapped tightly around the trunk in a hug, my face and chest pressed up against it. Our hearts beat in rhythm. A steady stream of blood oozes from my knee now, but I’ll patch it up when I get home. The wound will scab over, and later scar, then I’ll wear it proudly, like a medal of honor.
 `,
+    imageFile: `headshot.webp`,
 },{
     title: `On Forests and Femininity`,
     content: `everytime I shave my legs, it just grows back again
