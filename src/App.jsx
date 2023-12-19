@@ -102,10 +102,10 @@ const storyPages = [
 function App() {
   return (
     <div id="root">
-      <BrowserRouter>
+      <BrowserRouter basename={"/"}>
         <Header navItems={routes} title="Sara Robertson" />
         <Routes>
-          {routes.concat(routes.map(r => ({...r, path: r.path + "/"})))
+          {routes
             .concat(
               storyPages.reduce(
                 (acc, curr) =>
