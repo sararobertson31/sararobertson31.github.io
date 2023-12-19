@@ -235,7 +235,7 @@ wildfires blew through our city
 and i could see heat waves floating off the pavement,
 blurring out the ground i stood on.
 `,
-    imageFile: `headshot.webp',
+    imageFile: `headshot.webp`,
 }]
     
 
