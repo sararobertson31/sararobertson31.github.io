@@ -96,7 +96,7 @@ For what it’s worth, if I am able to take a step big enough to be two but it i
 my feet are still tethered to the ground.
 `,
     imageFile: `headshot.webp`
-}, {
+},{
     title: `the phoenix burns, too`,
     content: `few seem to consider
 that the phoenix
@@ -131,7 +131,7 @@ for an end to this agony.
 they tell us it will rise again-- 
 `,
     imageFile: `headshot.webp`
-}, {
+},{
     title: `bird bones`,
     content: `i started collecting bits of bird bones
 when i walk.
@@ -160,7 +160,7 @@ eventually
 become nothing but dust.
 `,
     imageFile: `headshot.webp`,
-}, {
+},{
     title: `What I do`,
     subtitle: `march 2021`,
     content: `I garden, and I feel the cool soil settle around my fingers as I place a naked root ball into the hole I have dug, and then I pat the earth down around it where it will be warm and safe. I water the plant to settle it in its new home, and I watch bubbles form on the ground as water flows through any pockets of air that remain beneath the earth, and the soil turns dark and rich.
@@ -191,7 +191,7 @@ I wake up and I look at the ceiling. I tell myself that I’ll get up when I cou
 
 Sometime soon I’d like to climb a tree again. Even now I can feel its cool, solid skin under my hands, my long hair getting tangled in sappy pine needles, I can hear the sharp hiss I’ll pull in through my teeth when my foot slips and my knee scrapes against the rough bark. I have almost forgotten what it’s like to sit on the slimmest branch that can hold my weight, my two legs dangling over either side and my arms wrapped tightly around the trunk in a hug, my face and chest pressed up against it. Our hearts beat in rhythm. A steady stream of blood oozes from my knee now, but I’ll patch it up when I get home. The wound will scab over, and later scar, then I’ll wear it proudly, like a medal of honor.
 `,
-}, {
+},{
     title: `On Forests and Femininity`,
     content: `everytime I shave my legs, it just grows back again
 and I just keep shearing it off
@@ -205,7 +205,7 @@ because we’ve all heard it said that deforestation to build new homes is
 killing our planet.
 `,
     imageFile: `headshot.webp`,
-}, {
+},{
     title: `August 2020`,
     content: `i will never know
 what she looked like,
