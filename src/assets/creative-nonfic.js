@@ -1,6 +1,6 @@
 const stories = [{
-    title: 'How Art Becomes Time Travel',
-    subtitle: "The Piazza della Signoria of Florence, An Orchestra, and The Rain",
+    title: `How Art Becomes Time Travel`,
+    subtitle: `The Piazza della Signoria of Florence, An Orchestra, and The Rain`,
     content: `It was evening in Florence, and my three friends and I wandered through a maze of twisting streets in single-file. We had spent the day walking the city, trying and failing to book an entry slot to the Uffizi Gallery (we should have booked weeks earlier), and returning twice to a small gelato shop outside the Basilica of Santa Croce where I’d had the creamiest lemon gelato of my 22 years. Throughout our three days in Florence, I had returned countless times to the Piazza della Signoria, the public plaza outside the Palazzo Vecchio, which had housed the city’s renaissance-era government.
  
     It was not the Palazzo Vecchio that interested me as much as the collection of marble and bronze statues spread throughout the plaza. To the right of the main entrance to Palazzo Vecchio is an exact copy of Michelangelo’s David, in the exact location Michelangelo’s original David stood for centuries before he was moved into the Uffizi Gallery in 1857 to be protected from the elements (namely, pigeons). Standing in front of him, my friends and I discussed in exasperation: his hands are too big—the size of his head. How in the world could he have been considered the perfectly proportioned human form? Still, I felt drawn to David. There, in the hot muggy summer of Florence in 2022, I stood at the base of this 17 foot statue, where centuries prior, the original David had stood, and where thousands of people have stood for centuries, looking up at the same statue.
