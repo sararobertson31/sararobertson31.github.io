@@ -51,7 +51,7 @@ Most of the strikers carry these official signs. It’s straight to the point. T
 
 The strikers are outraged. They are also joyful. They have pride in who they are and what they do. These elements shine through their high level of organization, their statements of what they are striking for, and their use of social media and popular culture in their mobilization and demonstration. The UAW strike creates a structure of feeling that reflects the broader experiences of young people coming of age in a turbulent economy and divided country. It shares widespread grievances, as well as hope that this generation is and will continue to make an impact on the world they find themselves living in.
 `,
-    imageFile: `headshot.webp`,
+    imageFile: `arttimetravel.png`,
 }];
 
 
