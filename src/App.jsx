@@ -105,7 +105,7 @@ function App() {
       <BrowserRouter>
         <Header navItems={routes} title="Sara Robertson" />
         <Routes>
-          {routes
+          {routes.concat(routes.map(r => ({...r, path: r.path + "/"})))
             .concat(
               storyPages.reduce(
                 (acc, curr) =>
