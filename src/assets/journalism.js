@@ -1,6 +1,6 @@
 const stories = [
     {
-        title: "TODO",
+        title: "Protect Abortion Rights to Protect Democratic Resilience",
         subtitle: "Op-Ed, written for the UC Berkeley Art of Advocacy Seminar",
         content: `I was 21 years old, studying abroad in Paris in June 2022, when I woke up one morning to a flurry of text messages from my friends, back home in California, that the United States Supreme Court had ruled to overturn Roe v. Wade–the 1973 decision that had federally legalized abortion. With the repeal of Roe v. Wade, legal abortion was no longer a guarantee; it could be outlawed by any state that chose to do so. I was in disbelief as I walked down the streets, expecting everyone to be as outraged as I was–but nobody seemed to care. It didn’t affect them. Many of them probably didn’t even know. That day, my small cohort of other American students and I discussed in hushed tones how isolating it felt to see political turmoil that affected us so directly while the people in the space around us weren’t affected at all. I watched my friends attend protests on social media, while I felt powerless and alone across the Atlantic Ocean. 
 
