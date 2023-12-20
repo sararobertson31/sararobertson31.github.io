@@ -2,13 +2,15 @@
 
 ## Interacting With Stories (Edit/Add/Delete)
 
-1. Decide type of story you want to interact with and click the link corresponding to that story type:
+1. Decide type of story you want to interact with and open the file corresponding to that story type:
 
-   i. Poetry: https://github.com/sararobertson31/sararobertson31.github.io/blob/main/src/assets/poetry.js
+   i. Poetry: [src/assets/poetry.js](https://github.com/sararobertson31/sararobertson31.github.io/blob/main/src/assets/poetry.js)
 
-   ii. Creative-nonfiction: https://github.com/sararobertson31/sararobertson31.github.io/blob/main/src/assets/creative-nonfic.js
+   ii. Creative-nonfiction: [src/assets/creative-nonfic.js](https://github.com/sararobertson31/sararobertson31.github.io/blob/main/src/assets/creative-nonfic.js)
 
-   iii. Journalism: https://github.com/sararobertson31/sararobertson31.github.io/blob/main/src/assets/journalism.js
+   iii. Journalism: [src/assets/journalism.js](https://github.com/sararobertson31/sararobertson31.github.io/blob/main/src/assets/journalism.js)
+
+2. Open the selected file in edit mode by clicking the arrow in the top right.
 
 ## Adding Stories
 
